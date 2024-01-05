@@ -1,6 +1,8 @@
 # Base 16 template for Ghostty
 
-To generate the color config, first install Mustache.
+You can use l0go's site at https://l0go.github.io/ghostty-base16-converter/ to generate the theme directly in your web browser, without installing anything.
+
+Of if you want to generate the color config manually, first install Mustache.
 
 Then run:
 
